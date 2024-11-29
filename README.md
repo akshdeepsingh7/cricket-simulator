@@ -1,7 +1,6 @@
 # Cricket Match Simulator 🏏
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![Last Commit](https://img.shields.io/badge/last%20commit-November%202024-brightgreen)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 ![CodeSize](https://img.shields.io/badge/code%20size-20%20KB-blue)
@@ -111,12 +110,6 @@ Match ID,Innings,Team,Player,Runs,Balls,Strike Rate
 
 - Python 3.6+
 - Standard Library Only
-
-## 📊 Stats
-
-![Issues](https://img.shields.io/badge/issues-0%20open-brightgreen)
-![PRs](https://img.shields.io/badge/pull%20requests-welcome-brightgreen)
-![Activity](https://img.shields.io/badge/activity-high-brightgreen)
 
 ## ✨ Acknowledgments
 
