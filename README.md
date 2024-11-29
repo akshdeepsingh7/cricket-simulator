@@ -5,7 +5,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![Last Commit](https://img.shields.io/badge/last%20commit-November%202024-brightgreen)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![CodeSize](https://img.shields.io/badge/code%20size-15%20KB-blue)
+![CodeSize](https://img.shields.io/badge/code%20size-20%20KB-blue)
 
 A sophisticated cricket match simulator built in Python that brings the excitement of cricket to your terminal. Experience realistic match progression, detailed player statistics, and dynamic gameplay mechanics.
 
