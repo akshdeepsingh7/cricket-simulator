@@ -1,7 +1,6 @@
 # Cricket Match Simulator 🏏
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 ![Last Commit](https://img.shields.io/badge/last%20commit-November%202024-brightgreen)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
@@ -112,22 +111,6 @@ Match ID,Innings,Team,Player,Runs,Balls,Strike Rate
 
 - Python 3.6+
 - Standard Library Only
-
-## 📝 License
-
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributing
-
-![Contributors](https://img.shields.io/badge/contributors-welcome-brightgreen)
-
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
 
 ## 📊 Stats
 
